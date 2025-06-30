@@ -69,6 +69,7 @@ I don’t just detect threats — I reduce noise, accelerate response, and impro
 ## 🎓 Education & Certifications
 
 🎓 **M.S. in Computer Science** — California State University, San Bernardino (Dec 2023)
+
 🎓 **B.Tech in Computer Science Engineering** — JNTU Hyderabad (May 2020)
 
 📜 **Certifications:**  
