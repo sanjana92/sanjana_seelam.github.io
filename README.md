@@ -13,7 +13,7 @@ I’m a results-oriented **SOC Analyst** with 5+ years of real-time experience p
 
 - 🔍 Deep expertise in **SIEM tuning & threat detection (Microsoft Sentinel, KQL)**
 - ⚙️ Automation of security workflows using **PowerShell, Python & SOAR**
-- ☁️ Experience in **Azure security, Defender XDR, IAM, and compliance (NIST 800-53, CIS)**  
+- ☁️ Experience in **Azure security, Defender XDR, IAM
 - 🧩 Passion for **forensics, malware analysis**, and collaborative incident response
 
 I don’t just detect threats — I reduce noise, accelerate response, and improve SOC efficiency.
