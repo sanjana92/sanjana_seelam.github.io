@@ -62,7 +62,7 @@ I don’t just detect threats — I reduce noise, accelerate response, and impro
 
 - **Thyroid Disease Detection Using Machine Learning** – Published via CSUSB ScholarWorks  
   🧠 Developed a highly accurate (99.87%) predictive model to detect hypothyroidism using real-world medical datasets.  
-  🔗 [Read the Publication on CSUSB ScholarWorks](https://scholarworks.lib.csusb.edu/etd/1687/)
+  🔗 [Read the Publication on CSUSB ScholarWorks][(https://scholarworks.lib.csusb.edu/etd/1687/)](https://scholarworks.lib.csusb.edu/etd/1814/)
 
 ---
 
