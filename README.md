@@ -1,5 +1,5 @@
 <h1 align="center">🚨 Sanjana Seelam</h1>
-<h3 align="center">SOC Analyst • Threat Hunter • Azure Defender • Cybersecurity Automator</h3>
+<h3 align="center">SOC Analyst • Security Analyst • Threat Hunter • Azure Defender • Cybersecurity Automator</h3>
 
 <p align="center">
 🌐 Securing cloud-native environments | 🛡️ Automating threat response | 📊 Data-driven cyber defense
