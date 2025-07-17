@@ -9,97 +9,97 @@
 
 ## 🧠 About Me
 
-I’m a results-oriented **SOC Analyst** with 5+ years of real-time experience protecting enterprise and cloud infrastructure from evolving cyber threats. I bring together a unique mix of:
+I’m a results-oriented **SOC & Security Analyst** with 5+ years of experience defending enterprise and cloud infrastructure. I blend analytical thinking, automation skills, and frontline defense to keep systems resilient and threats contained.
 
-- 🔍 Deep expertise in **SIEM tuning & threat detection (Microsoft Sentinel, KQL)**
-- ⚙️ Automation of security workflows using **PowerShell, Python & SOAR**
-- ☁️ Experience in **Azure security, Defender XDR, IAM
-- 🧩 Passion for **forensics, malware analysis**, and collaborative incident response
-
-I don’t just detect threats — I reduce noise, accelerate response, and improve SOC efficiency.
+- 🧠 Skilled in **SIEM & XDR platforms** like Microsoft Sentinel, Defender XDR, Splunk, AlienVault
+- 🛠️ Experienced in **cloud security (Azure, AWS, GCP)**, including IAM, firewalls, and zero trust
+- ⚙️ Automated detection/response with **PowerShell, Python, Excel Macros, SOAR**
+- 🔍 Conducted **malware triage, phishing analysis**, and forensics using tools like CrowdStrike, Autopsy
+- 📊 Created dashboards and reports in **Power BI, Tableau, Looker Studio** for executive visibility
 
 ---
 
 ## 💼 Core Competencies
 
-| SIEM & XDR        | Microsoft Sentinel, Defender 365, Splunk, ArcSight, AlienVault |
-|-------------------|-----------------------------------------------------------------|
-| Cloud Security    | Azure Security Center, Azure AD, Defender for Cloud, IAM       |
-| Detection & Response | KQL, MITRE ATT&CK Mapping, Incident Triage, Playbooks      |
-| Scripting         | PowerShell, Python, Bash                                       |
-| Forensics & EDR   | Autopsy, Sysinternals, Wireshark, Defender for Endpoint        |
-| Reporting         | Power BI, Looker Studio, Tableau                               |
+| SIEM & XDR         | Microsoft Sentinel, Defender 365, Splunk, ArcSight, AlienVault, QRadar |
+|--------------------|-------------------------------------------------------------------------|
+| Cloud Security     | Azure Security Center, AWS, GCP, Azure AD, Defender for Cloud, IAM     |
+| Threat Detection   | KQL, MITRE ATT&CK, IOC Analysis, Rule Tuning, SOAR Playbooks           |
+| Automation & Scripting | PowerShell, Python, Bash, Excel Macros                             |
+| Forensics & EDR    | CrowdStrike, Autopsy, Sysinternals, Wireshark, Defender for Endpoint   |
+| Vulnerability Mgmt | Nessus, Qualys, Rapid7, CVE/CVSS, Patch Governance                     |
+| Reporting          | Power BI, Tableau, Looker Studio, Excel                                |
+| Governance         | NIST 800-53, ISO 27001, PCI-DSS, SOX, GDPR                             |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📌 [AI-Powered Phishing Classifier (APECRA)](https://github.com/sanjanaseelam/apecra)
-> **96% accurate NLP-based model** that classifies phishing emails in real-time  
-> 🔄 Integrated with **Slack alerts** and **Defender API** for quarantine automation  
+> Built a **96% accurate NLP-based detector** to classify phishing emails  
+> 🔄 Integrated with **Slack alerts** + **Defender API** for automated quarantine  
 
 ---
 
 ### 📌 [Cloud Threat Detection & Auto-Response (CTDAS)](https://github.com/sanjanaseelam/ctdas)
-> Deployed **Wazuh SIEM** on AWS EC2 with **Lambda + SNS** to auto-block attacker IPs  
-> 📈 Cut incident response time by 60% and improved cloud visibility  
+> Deployed **Wazuh SIEM** on AWS EC2  
+> 🚨 Used Lambda + SNS to auto-block attacker IPs → Cut IR time by **60%**
 
 ---
 
 ### 📌 [KQL Threat Hunting Playbooks](https://github.com/sanjanaseelam/kql-hunting)
-> Authored dozens of **MITRE-mapped KQL queries** to detect brute-force, lateral movement, and exfiltration  
-> 💡 Used by SOC teams as drop-in hunting logic for Azure Sentinel  
+> Authored **MITRE-mapped KQL queries** for detecting brute-force, lateral movement, and exfiltration  
+> 💡 Used by multiple SOCs to improve threat hunting on Azure Sentinel  
 
 ---
 
-### 📌 [Digital Forensics Case Study](#)
-> 🧪 Performed memory and disk analysis using **Volatility** and **Autopsy**  
-> 🎯 Documented investigation from compromise to root cause using forensic tooling
+### 📌 Digital Forensics Case Study
+> Recovered memory & disk artifacts using **Volatility** and **Autopsy**  
+> 🧪 Documented root cause with screenshots and investigative summary  
 
 ---
 
-## 📚 Publications
+## 📰 Publications
 
-- **Thyroid Disease Detection Using Machine Learning** – Published via CSUSB ScholarWorks  
-  🧠 Developed a highly accurate (99.87%) predictive model to detect hypothyroidism using real-world medical datasets.  
-  🔗 [Read the Publication on CSUSB ScholarWorks][(https://scholarworks.lib.csusb.edu/etd/1687/)](https://scholarworks.lib.csusb.edu/etd/1814/)
+- **Thyroid Disease Detection Using ML** – [Published at CSUSB ScholarWorks](https://scholarworks.lib.csusb.edu/etd/1814/)  
+  🧠 Achieved **99.87% accuracy** using real patient datasets  
 
 ---
 
-## 🎓 Education & Certifications
+## 🏢 Experience Snapshot
 
-🎓 **M.S. in Computer Science** — California State University, San Bernardino (Dec 2023)
+**IT Security Analyst – Cloudflare (2022–Present)**  
+- Built custom fraud detection rules in Sentinel & Exabeam  
+- Automated phishing triage with Proofpoint + Excel Macros  
+- Led incident response using CrowdStrike, Hive, Defender  
+- Delivered weekly client-facing reports via Power BI  
 
-🎓 **B.Tech in Computer Science Engineering** — JNTU Hyderabad (May 2020)
+**IT Security Analyst – Morgan Stanley (2021–2022)**  
+- Created Splunk alerts and dashboards to detect real-time attacks  
+- Secured Azure SDN networks & optimized firewall rules  
+- Automated response via PowerShell scripts and Kibana  
 
-📜 **Certifications:**  
+**SOC Analyst – IBM (2019–2021)**  
+- Used QRadar/Splunk for threat triage and phishing response  
+- Authored playbooks, supported forensic investigations, and SIEM tuning  
+- Coordinated with IT/DevOps for patching and vulnerability closure  
+
+---
+
+## 📜 Certifications
+
 - SC-200: Microsoft Security Operations Analyst  
 - AZ-500: Microsoft Azure Security Engineer  
+- CISSP  
 - CompTIA Security+  
-- CISSP 
 
 ---
 
-## 📈 GitHub Activity
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaseelam&show_icons=true&theme=gruvbox" alt="Sanjana's GitHub Stats" />
-</p>
-
----
-
-## 🔗 Let’s Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/sanjana9999)  
-- 📧 Email: sanjanaseelam11@gmail.com  
-- 🌐 Portfolio: `https://sanjanaseelam.github.io`  
-- 🧪 Labs: TryHackMe | Hack The Box | Personal CTFs  
+🎓 **M.S. in Computer Science** – California State University, San Bernardino (2023)  
+🎓 **B.Tech in CSE** – JNTU Hyderabad (2020)  
 
 ---
 
-## 🧩 Fun Fact
-
-> I turned a phishing email triage workflow that took 15 minutes…  
-> into an automated system that does it in 15 **seconds** ⚡
-
-
+##
